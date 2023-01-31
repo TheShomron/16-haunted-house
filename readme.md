@@ -2,7 +2,7 @@
 A Three.js project that depicts a haunted house in the middle of a graveyard surrounded by ghosts.
 
 ## Live Preview
-You can preview the project at this [link](#https://hountedhouse-8c088.web.app/).
+You can preview the project at this [link](https://hountedhouse-8c088.web.app/).
 
 ## How to Use
 1. Clone the repository
